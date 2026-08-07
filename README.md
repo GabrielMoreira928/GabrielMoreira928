@@ -12,5 +12,5 @@
 ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=GabrielMoreira928&show_icons=true&theme=merko)
 
 
-## 🛠️ Studying Software Engineering
+## 🛠️ Technologies Learned
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
